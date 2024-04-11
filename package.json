@@ -1,0 +1,17 @@
+{
+  "name": "device_simulator_extension",
+  "version": "1.0.0",
+  "description": "Responsive Device simulator for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "John Chimezie",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "chrome-types": "^0.1.279"
+  }
+}

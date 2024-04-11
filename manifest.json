@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Responsive Device simulator",
+    "description": "Responsive Device simulator for websites",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "assets/logo.png",
+        "default_title": "Activate Device simulator"
+    }
+
+}
